@@ -30,7 +30,7 @@ A **FastAPI**-based blog application featuring **user authentication**, **JWT to
 - **Database:** PostgreSQL
 - **Authentication:** JWT tokens
 - **Password Security:** Hashing (bcrypt)
-- **ORM:** SQLAlchemy / Tortoise ORM (depending on implementation)
+- **ORM:** SQLAlchemy 
 
 ---
 
@@ -40,3 +40,4 @@ A **FastAPI**-based blog application featuring **user authentication**, **JWT to
    ```bash
    git clone https://github.com/your-username/fastapi-blog.git
    cd fastapi-blog
+
