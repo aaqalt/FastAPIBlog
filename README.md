@@ -38,6 +38,7 @@ A **FastAPI**-based blog application featuring **user authentication**, **JWT to
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/fastapi-blog.git
-   cd fastapi-blog
+   git clone https://github.com/aaqalt/FastAPIBlog.git
+   cd FastAPIBlog
+
 
